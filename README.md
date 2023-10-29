@@ -8,7 +8,7 @@ Afonso Navarini
 ✔️ Skills\
 ✔️ Educação\
 ✔️ Experiência Profissional\
-✔️ Projetos Grandes\
+✔️ Meus Projetos\
 ✔️ Conquistas e Certificações 🏆\
 ✔️ Contato\
 ✔️ Perfil do GitHub
@@ -22,7 +22,7 @@ Para ver ao vivo, **[clique aqui]([https://developerfolio.js.org/](https://portf
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
-✔️ Big Projects\
+✔️ My Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Contact me\
 ✔️ GitHub Profile
