@@ -1,5 +1,7 @@
 # Software Developer Folio ⚡️
-### Afonso Navarini
+Afonso Navarini
+
+### 🇧🇷
 
 ## Sessões do Portfólio
 ✔️ Sumário e Sobre mim\
@@ -13,7 +15,7 @@
 
 Para ver ao vivo, **[clique aqui]([https://developerfolio.js.org/](https://portfolio-green-six-90.vercel.app/))**.
 
-### en-US
+### 🇺🇸 en-US
 
 ## Portfolio Sections
 ✔️ Summary and About me\
