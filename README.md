@@ -15,7 +15,7 @@ Afonso Navarini
 
 Para ver ao vivo, **[clique aqui]([https://developerfolio.js.org/](https://portfolio-green-six-90.vercel.app/))**.
 
-### 🇺🇸 en-US
+### 🇺🇸
 
 ## Portfolio Sections
 ✔️ Summary and About me\
