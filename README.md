@@ -27,4 +27,4 @@ Para ver ao vivo, **[clique aqui]([https://developerfolio.js.org/](https://portf
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view live, **[click here]([https://developerfolio.js.org/](https://portfolio-green-six-90.vercel.app/))**.
+To view live, **[click here](https://portfolio-afonsonavarini.vercel.app/)**.
